@@ -2,7 +2,7 @@
 # encoding: utf-8
 #
 # Usage: patch your Rime schema to enable /X symbols
-
+# What the fuck I don't know how to use git
 config_version: '1.6'
 
 patch:
